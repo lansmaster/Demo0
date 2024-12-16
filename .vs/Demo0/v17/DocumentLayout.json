@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\Demo0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3951060A-75E0-42B6-8A65-5FAD5C582BA1}|Demo0\\Demo0.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\demo0\\demo0\\changepasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3951060A-75E0-42B6-8A65-5FAD5C582BA1}|Demo0\\Demo0.csproj|solutionrelative:demo0\\changepasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3951060A-75E0-42B6-8A65-5FAD5C582BA1}|Demo0\\Demo0.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\demo0\\demo0\\changepasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3951060A-75E0-42B6-8A65-5FAD5C582BA1}|Demo0\\Demo0.csproj|solutionrelative:demo0\\changepasswordwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3951060A-75E0-42B6-8A65-5FAD5C582BA1}|Demo0\\Demo0.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\demo0\\demo0\\changepasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3951060A-75E0-42B6-8A65-5FAD5C582BA1}|Demo0\\Demo0.csproj|solutionrelative:demo0\\changepasswordwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3951060A-75E0-42B6-8A65-5FAD5C582BA1}|Demo0\\Demo0.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\demo0\\demo0\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ChangePasswordWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\Demo0\\Demo0\\ChangePasswordWindow.xaml.cs",
               "RelativeDocumentMoniker": "Demo0\\ChangePasswordWindow.xaml.cs",
               "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\Demo0\\Demo0\\ChangePasswordWindow.xaml.cs",
               "RelativeToolTip": "Demo0\\ChangePasswordWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAApwFAAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T19:38:56.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ChangePasswordWindow.xaml",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\Demo0\\Demo0\\ChangePasswordWindow.xaml",
               "RelativeDocumentMoniker": "Demo0\\ChangePasswordWindow.xaml",
@@ -73,7 +73,7 @@
               "RelativeDocumentMoniker": "Demo0\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\Demo0\\Demo0\\MainWindow.xaml.cs",
               "RelativeToolTip": "Demo0\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACoAAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T18:45:25.113Z",
               "EditorCaption": ""

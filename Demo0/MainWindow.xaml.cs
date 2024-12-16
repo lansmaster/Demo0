@@ -30,7 +30,7 @@ namespace Demo0
 
             if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
             {
-                MessageBox.Show("Пожалуйста, введите логин и пароль.");
+                MessageBox.Show("Пожалуйста, введите логин и пароль.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                 return;
             }
 
@@ -40,11 +40,11 @@ namespace Demo0
 
                 if (user != null)
                 {
-                    MessageBox.Show("Вы успешно авторизовались.");
+                    MessageBox.Show("Вы успешно авторизовались.", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
                 }
                 else
                 {
-                    MessageBox.Show("Вы ввели неверный логин и пароль.");
+                    MessageBox.Show("Вы ввели неверный логин и пароль.", "Ошибка", MessageBoxButton.OK, MessageBoxImage.Error);
                 }
             }
         }
