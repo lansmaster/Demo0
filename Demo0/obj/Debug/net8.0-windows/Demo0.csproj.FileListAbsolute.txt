@@ -144,3 +144,8 @@ C:\Users\Администратор\source\repos\Demo0\Demo0\obj\Debug\net8.0-wi
 C:\Users\Администратор\source\repos\Demo0\Demo0\obj\Debug\net8.0-windows\Demo0.pdb
 C:\Users\Администратор\source\repos\Demo0\Demo0\obj\Debug\net8.0-windows\Demo0.genruntimeconfig.cache
 C:\Users\Администратор\source\repos\Demo0\Demo0\obj\Debug\net8.0-windows\ref\Demo0.dll
+C:\Users\Администратор\source\repos\Demo0\Demo0\obj\Debug\net8.0-windows\AdminWindow.g.cs
+C:\Users\Администратор\source\repos\Demo0\Demo0\obj\Debug\net8.0-windows\ChangePasswordWindow.g.cs
+C:\Users\Администратор\source\repos\Demo0\Demo0\obj\Debug\net8.0-windows\AdminWindow.baml
+C:\Users\Администратор\source\repos\Demo0\Demo0\obj\Debug\net8.0-windows\ChangePasswordWindow.baml
+C:\Users\Администратор\source\repos\Demo0\Demo0\obj\Debug\net8.0-windows\Demo0.sourcelink.json
