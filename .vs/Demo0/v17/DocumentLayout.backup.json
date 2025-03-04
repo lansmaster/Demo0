@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\Demo0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3951060A-75E0-42B6-8A65-5FAD5C582BA1}|Demo0\\Demo0.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\demo0\\demo0\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3951060A-75E0-42B6-8A65-5FAD5C582BA1}|Demo0\\Demo0.csproj|solutionrelative:demo0\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3951060A-75E0-42B6-8A65-5FAD5C582BA1}|Demo0\\Demo0.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\demo0\\demo0\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3951060A-75E0-42B6-8A65-5FAD5C582BA1}|Demo0\\Demo0.csproj|solutionrelative:demo0\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3951060A-75E0-42B6-8A65-5FAD5C582BA1}|Demo0\\Demo0.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\demo0\\demo0\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3951060A-75E0-42B6-8A65-5FAD5C582BA1}|Demo0\\Demo0.csproj|solutionrelative:demo0\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3951060A-75E0-42B6-8A65-5FAD5C582BA1}|Demo0\\Demo0.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\demo0\\demo0\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,27 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\Demo0\\Demo0\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Demo0\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\Demo0\\Demo0\\Models\\User.cs",
+              "RelativeToolTip": "Demo0\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:55:39.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\Demo0\\Demo0\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Demo0\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\Demo0\\Demo0\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Demo0\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:53:08.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AdminWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\Demo0\\Demo0\\AdminWindow.xaml.cs",
               "RelativeDocumentMoniker": "Demo0\\AdminWindow.xaml.cs",
               "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\Demo0\\Demo0\\AdminWindow.xaml.cs",
               "RelativeToolTip": "Demo0\\AdminWindow.xaml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADgvyMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T20:32:02.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdminWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\Demo0\\Demo0\\AdminWindow.xaml",
-              "RelativeDocumentMoniker": "Demo0\\AdminWindow.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\u0438\u0441\u0442\u0440\u0430\u0442\u043E\u0440\\source\\repos\\Demo0\\Demo0\\AdminWindow.xaml",
-              "RelativeToolTip": "Demo0\\AdminWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-16T20:28:51.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T20:32:02.899Z"
             }
           ]
         }
